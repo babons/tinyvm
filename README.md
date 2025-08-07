@@ -18,5 +18,3 @@ Compile with GCC:
 ```bash
 gcc -Iinclude src/*.c -o tinyvm
 ```
-
-This is yet another program pulled from my other repo c-playground.
